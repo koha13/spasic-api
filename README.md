@@ -20,7 +20,9 @@ Spring boot api for spacic
 Change in application.properties to suit in your info  
 Change database dependencies in pom.xml (Default is Mysql)  
 Only need java enviroment and a sql database to run this  
-(It's spring boot => easy to start. But if you are using commandline... search gg to run spring boot app in commandline)
+
+## Run
+mvn spring-boot:run
 
 ```
 
