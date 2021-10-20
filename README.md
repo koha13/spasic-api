@@ -6,7 +6,7 @@ Spring boot api for spacic
 
 ## [Client repo](https://github.com/koha13/spasic)
 
-## [Demo](https://koha13.live)
+## [Demo](https://music.koha13.xyz/)
 
 ## Image
 
